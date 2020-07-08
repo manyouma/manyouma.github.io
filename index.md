@@ -4,5 +4,5 @@ Here is a list of projects I have work on during my graduate studies:
 
 ### Speed of Sound Estimation and Correction in Dual Stage Ultrasound
 
-During my Master's study, I developed an speed-of-sound (SOS) estimation method. I improves the spatial resolution of biomedical ultrasound imaging by performing speed of sound estimation and correction. For more details see [Dual Stage SoS](http://www.ece.ubc.ca/~manyoum/dual_stage_sos/).
+During my Master's study, I developed an speed-of-sound (SOS) estimation and correction method that improves the spatial resolution of biomedical ultrasound. For more details see [Dual Stage SoS](http://www.ece.ubc.ca/~manyoum/dual_stage_sos/).
 
