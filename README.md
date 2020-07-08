@@ -1,2 +1,2 @@
-# manyouma.github.io
-Website
+# Manyou Ma
+Ph.D Student from the University of British Columbia
