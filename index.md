@@ -4,5 +4,5 @@ Here is a list of projects I have worked on during my graduate studies:
 
 ### Speed of Sound Estimation and Correction in Dual Stage Ultrasound
 
-During my Master's study, I developed an speed-of-sound (SOS) estimation and correction method that improves the spatial resolution of biomedical ultrasound. For more details see [Dual Stage SoS](manyouma.github.io/dual_stage_sos).
+During my Master's study, I developed an speed-of-sound (SOS) estimation and correction method that improves the spatial resolution of biomedical ultrasound. For more details see [Dual Stage SoS](dual_stage_sos).
 
