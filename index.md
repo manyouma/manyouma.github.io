@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Website
 
-You can use the [editor on GitHub](https://github.com/manyouma/manyouma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! I am a Ph.D student from the University of British Columbia workig on wireless networking, under the supervision of Dr. Vincent Wong. I received my B.Eng in Honours Electrical Engineeinrg from McGill University in 2014, and a M.A.Sc in electrical and computer engineering from the Univerisity of British Columbia in 2016. For my Ph.D. work, I primarily work on in scheduling problems in wireless networking, with an emphasis on machine learning and deep reinforcement learning-based algorithms design.
 
 ### Markdown
 
